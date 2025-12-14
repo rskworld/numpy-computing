@@ -1,0 +1,11 @@
+# NumPy Numerical Computing Project Requirements
+# Author: RSK World
+# Website: https://rskworld.in
+# Email: help@rskworld.in
+# Phone: +91 93305 39277
+
+numpy>=1.24.0
+jupyter>=1.0.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
